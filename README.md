@@ -23,7 +23,7 @@ This X-Cart module provides an easy method to integrate with the payment gateway
 # Installing and configuring the module
 
 1. Copy and paste the contents of httpdocs to your root X-Cart
-2. Login to your admin panel and navigate to System Settings -> Cache Management and click 'redeploy store'
+2. Log in to your admin panel and navigate to System Settings -> Cache Management and click 'redeploy store'
 3. Navigate to modules and locate Cardstream and click the 'install' button, the store will redeploy again automatically
 4. Click settings under the Cardstream module you just installed
 5. Under 'Online Payments' click 'Add Payment Method'. Locate and add Cardstream
